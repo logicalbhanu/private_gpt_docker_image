@@ -30,5 +30,5 @@ I am asumming that you are working on a linux machine and have docker configured
 1. type ```exit``` to exit from private_gpt prompt, then type ```exit``` to exit from the container itself.
 
 **Note**
-At present, every time you start the container you have to go through all the steps mentioned in the **steps to run it** heading, in future i will try to create a script to automate this, also after exiting from the docker you will need to remove the container via the command ```docker rm -f my_private_gpt`` to use the name again otherwise change the name when running the contianer again(not recommended as it will take extra disk space).
+At present, every time you start the container you have to go through all the steps mentioned in the **steps to run it** heading, in future i will try to create a script to automate this, also after exiting from the docker you will need to remove the container via the command ```docker rm -f my_private_gpt``` to use the name again otherwise change the name when running the contianer again(not recommended as it will take extra disk space).
 
