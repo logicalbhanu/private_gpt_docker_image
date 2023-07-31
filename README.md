@@ -11,7 +11,7 @@ An attempt to create a docker image for the privateGPT, which works on linux cpu
 ### Assumptions:
 I am asumming that you are working on a linux machine and have docker configured on it also you should be familiar with docker for better experience.
 
-### Step to run it.
+### Steps to run it.
 1. First download the model(ggml-gpt4all-j-v1.3-groovy.bin) image used in this contianer from this link https://gpt4all.io/models/ggml-gpt4all-j-v1.3-groovy.bin
 2. Save the model in directory of your choice on local pc, i am assuming that it is saved in '~/models/' directory.
 3. Pull the docker image by using command
